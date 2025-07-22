@@ -27,23 +27,6 @@ A simple Spring Boot-based To-Do List application that provides a RESTful API fo
 
 ---
 
-## 📁 Project Structure
-
-src
-├── main
-│ └── java
-│ └── com.example.todo
-│ ├── controller
-│ │ └── TaskController.java
-│ ├── model
-│ │ └── Task.java
-│ ├── repository
-│ │ └── TaskRepository.java
-│ ├── service
-│ │ └── TaskService.java
-│ └── TodoApplication.java
-└── resources
-└── application.properties
 
 yaml
 
